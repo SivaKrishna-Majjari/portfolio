@@ -8,9 +8,9 @@ const Footer = () => {
   return (
     <footer>
       <div className="footer__socials">
-        <a href="http://google.com"><SiGmail /></a>
-        <a href="http://google.com"><FaFacebook /></a>
-        <a href="http://google.com"><FaInstagram /></a>
+        <a href="mailto:sivakrishna.majjari@gmail.com" target='_blank'><SiGmail /></a>
+        <a href="https://www.facebook.com/profile.php?id=100006375585798" target='_blank'><FaFacebook /></a>
+        <a href="https://www.instagram.com/sivakrishna_m/" target='_blank'><FaInstagram /></a>
       </div>
 
       <div className="footer__copyright">
